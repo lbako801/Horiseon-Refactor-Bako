@@ -51,16 +51,15 @@ p {
 }
 
 /*Figure section relates to the HERO image on the homepage*/
-figure {
+figure img{
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
-/*float commands are related to the images in the <main> tag*/
+/*float commands are related to the images in the <main> tag, used to align images.*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -106,58 +105,23 @@ main {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/*Following classes affect images and associated paragraphs in the main tag. Styles image size and box rules.*/
+.main-section-box h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.main-images img {
+    max-height: 200px;
+}
+
+.main-section-box {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 footer {
