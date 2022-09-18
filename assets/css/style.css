@@ -60,7 +60,7 @@ figure {
     background-position: center;
 }
 
-/*Float commands are related to the images in the <main> tag*/
+/*float commands are related to the images in the <main> tag*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -77,7 +77,7 @@ main {
     margin-left: 20px;
 }
 
-/*Sidebar is the class given to the aside which houses the benefit summary*/
+/*Sidebar is the class given to the aside which contains benefit summaries.*/
 .sidebar {
     margin-right: 20px;
     padding: 20px;
