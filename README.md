@@ -10,7 +10,7 @@ To refactor this code, extensive changes to the HTML and CSS files were made:
 
 ## Application URL
 
-- [Horiseon Application](https://lbako801.github.io/Horiseon-Refractor-Bako/)
+- [Horiseon Application](https://lbako801.github.io/Horiseon-Refactor-Bako/)
 
 ## Authors and Github
 
